@@ -7,7 +7,7 @@ Para iniciar con esta aventura, hemos lanzado una aplicación web para procesar 
 
 Somo un servicio gratuito y sobre todo respetamos los derechos de autor, por ello no tenemos intención de apropiarnos de algún material de terceros, solo usamos la información para analízarla y generar nuevo contenido.
 
-Debes saber que usamos Google Analytics para recopilar datos sobre tu navegación y dirección IP, de esta forma podemos tener información sobre los visitantes a nuestra página. Si deseas mayor información ingresa a google.com/analytics/terms/es.html.
+Debes saber que usamos Google Analytics para recopilar datos sobre tu navegación y dirección IP, de esta forma podemos tener información sobre los visitantes a nuestra página. Si deseas mayor información ingresa a www.google.com/analytics/terms/es.html.
 
 Cualquier consulta puedes contactarnos a labs@pwywback.com y dejarnos algún comentario, sugerencia o reporte.
 
